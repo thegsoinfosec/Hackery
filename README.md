@@ -1,6 +1,6 @@
 # Essetial resources, tools and their links.
 
-Penetration testing OS's
+Penetration Testing OS's
 ________________________________
 
 #https://www.kali.org/  
